@@ -36,4 +36,20 @@ Os princípios guiam o desenvolvimento usando a metodologia, sendo eles:
 
 ### Práticas
 São utiliazadas para o desenvolvimento do sistema, sendo elas:
-1. **Planning Poker/Game**: 
+1. **Equipe Inteira**: Toda a equipe trabalha em conjunto como um *time de futebol*.
+2. **Jogos de Planejamento (Plan Poker)**: Definição de prioridade, tempo e custo do projeto.
+3. **Posse Coletiva**: Todo mundo é "dono" do código.
+4. **Programação em Pares (Pair Programming)**: O código tem um piloto e co-piloto.
+5. **Ritmo Saudável**: Entre 36h a 40h por semana, sem exaurir a equipe.
+6. **Testes de Aceitação**: Junto ao cliente com validações constantes.
+7. **TDD (Desenvolvimento Orientado a Testes)**: Testar antes de codificar.
+8. **Integração Contínua**: Realizar a validação constante dos componentes do sistema.
+9. **Refatoramento**: Melhorar sem mudar o objetivo principal.
+10. **Padrões de Código**: Conjunto de padrões de projeto que servem para resolução de problemas recorrentes no processo de desenvolvimento.
+11. **Testes de Usuário**: Validação com o usuário final sobre as funcionalidades.
+12. **Design Simples**: Manter o código limpo (clean code).
+
+### Atividades
+O XP organiza o desenvolvimento em algumas atividades fundamentais: **Códicação**, **Testes**[^2], **Escuta** e **Design**.
+
+[^2]: **TESTES**: São criados e executados testes automatizados para garantir que o sistema funcione.
