@@ -50,6 +50,13 @@ São utiliazadas para o desenvolvimento do sistema, sendo elas:
 12. **Design Simples**: Manter o código limpo (clean code).
 
 ### Atividades
-O XP organiza o desenvolvimento em algumas atividades fundamentais: **Códicação**, **Testes**[^2], **Escuta** e **Design**.
+O XP organiza o desenvolvimento em quatro atividades fundamentais:
 
-[^2]: **TESTES**: São criados e executados testes automatizados para garantir que o sistema funcione.
+1. **Codificação**
+É considerada a principal atividade no XP. Através dela, ideias são convertidas em código funcional.
+2. **Testes**
+Criação e execução de testes automatizados antes mesmo da codificação (TDD). Garantem que o código funcione conforme esperado e servem como documentação viva do sistema.
+3. **Escuta**
+Refere-se à habilidade dos desenvolvedores de ouvir atentamente os requisitos e necessidades dos clientes. Compreender o problema é essencial para desenvolver uma solução adequada.
+4. **Design**
+Foca na criação de estruturas simples e eficientes que suportem a funcionalidade atual sem desnecessária complexidade. A refatoração contínua ajuda a manter o design do código limpo e adaptável.

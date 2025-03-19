@@ -13,21 +13,27 @@ O RUP é formado pelas seguintes fases:
   - Marco: Arquitetura/Riscos
 - **Construção**:
   - Objetivo: Execução operacional da solução
-  - Marco: Capacidade Operacional
+  - Marco: Capacidade Operacional Inicial
 - **Transição**:
   - Objetivo: Entrega do software e dos artefatos
   - Marco: Entrega ao usuário final
 
 ### Disciplinas
 Cada fase no RUP desenvolve determinadas disciplinas, sendo elas dividas em:
-- **OPERACIONAIS**:
-  - **Modelagem de Sistemas**: Adequação à legislação e normativos
-  - **Requisitos**: Necessidades dos clientes
-  - **Análise e Design**: Validar os requisitos e elaborar o projeto
-  - **Implementação**: Desenvolvimento da solução por meio da linguagem de programação que foi escolhida
+- **Disciplinas Operacionais**:
+  - **Modelagem de Negócios**: Adequação à legislação e normativos
+  - **Requisitos**: Levantamento das necessidades dos clientes
+  - **Análise e Design**: Validar os requisitos e elaborar o projeto arquitetural
+  - **Implementação**: Desenvolvimento da solução por meio da linguagem de programação escolhida
   - **Teste**: Validar e verificar a codificação para averiguar sua qualidade
-  - **Implantação**: Disponibilidade ao usuário final
-- **GERENCIAIS**:
-  - **Gerenciamento de Configuração e Mudança**: Gerenciamento de configurações (alterações e evoluções)
+  - **Implantação**: Disponibilização ao usuário final
+- **Disciplinas Gerenciais**:
+  - **Gerenciamento de Configuração e Mudança**: Controle de versões e alterações no sistema
   - **Gerenciamento de Projetos**: Garantir a execução do projeto de acordo com o esperado
-  - **Ambiente**: Configuração e ferramentas de disponibilidade do projeto (como com ouso de respositórios)
+  - **Ambiente**: Configuração e ferramentas de disponibilidade do projeto (como com o uso de repositórios)
+
+### Características Principais
+- **Iterativo e Incremental**: Cada ciclo produz uma versão executável do produto
+- **Centrado na Arquitetura**: A arquitetura é desenvolvida logo nas primeiras iterações
+- **Dirigido por Casos de Uso**: Os casos de uso guiam todo o processo de desenvolvimento
+- **Focado em Riscos**: Busca identificar e mitigar os principais riscos nas fases iniciais
