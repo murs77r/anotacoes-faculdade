@@ -118,4 +118,4 @@ As vantagens dessa metodologia são o gerenciamento eficaz de riscos ao desenvol
 | **Tempo até primeira entrega** | Longo | Curto | Médio |
 | **Documentação** | Extensa | Moderada | Significativa |
 
-[^1]**OBSERVAÇÃO**: Essa tabela comparativa foi feita por Inteligência Artificial.
+[^1]: **OBSERVAÇÃO**: Essa tabela comparativa foi feita por Inteligência Artificial.
