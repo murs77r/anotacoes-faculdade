@@ -7,7 +7,7 @@ O RUP é um **framework** (uma estrutura, um guia mais flexível que uma metodol
 
 *   **Características Principais:**
     *   **Iterativo e Incremental:** O software é construído em ciclos (iterações), e a cada ciclo, uma nova parte funcional é adicionada (incremento).
-    *   **Centrado na Arquitetura:** A estrutura geral do sistema é definida e validada cedo.
+    *   **Centrado na Arquitetur:** A estrutura geral do sistema é definida e validada cedo.
     *   **Dirigido por Casos de Uso:** O desenvolvimento é guiado pelas funcionalidades que o usuário realizará (use cases).
     *   **Focado em Riscos:** Busca identificar e tratar os maiores riscos no início.
 
