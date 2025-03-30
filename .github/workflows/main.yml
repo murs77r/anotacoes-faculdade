@@ -1,0 +1,38 @@
+name: Convert Markdown to PDF
+
+on:
+  push:
+    paths:
+      - '**.md' 
+  workflow_dispatch: 
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Instalar dependências
+        run: sudo apt update && sudo apt install -y pandoc texlive-xetex
+
+      - name: Converter Markdown para PDF
+        run: |
+          for file in $(find . -name "*.md"); do
+            pandoc "$file" -o "${file%.md}.pdf" --pdf-engine=xelatex
+          done
+
+      - name: Armazenar PDFs como artefato
+        uses: actions/upload-artifact@v3
+        with:
+          name: pdf-files
+          path: "**/*.pdf"
+
+      - name: Commitar PDFs no repositório
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m "Gerados PDFs automaticamente"
+          git push
+        continue-on-error: true
