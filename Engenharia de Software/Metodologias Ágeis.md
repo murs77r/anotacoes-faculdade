@@ -12,9 +12,9 @@ O desenvolvimento ágil foca no trabalho em equipes pequenas, auto-organizadas e
 
 ## eXtreme Programming (XP)
 Conforme um autor (Beck, 2000), o eXtreme Programming é uma *"Metodologia ágil para equipes pequenas a médias
-desenvolvendo software com requesitos vagos ou que mudam freqüentemente"*. 
+desenvolvendo software com requisitos vagos ou que mudam freqüentemente"*. 
 
-Em linhas gerais, no XP a codificação é a principal tarefa e baseia-se em *"revisão permanente do código, testes freqüentes, participação do usuário final, refatoração contínua, refinamento contínuo da arquitetura, integração contínua, planejamento, projeto e reprojeto a qualquer hora"*.
+Em linhas gerais, no XP a codificação é a principal tarefa e baseia-se em *"revisão permanente do código, testes frequentes, participação do usuário final, refatoração contínua, refinamento contínuo da arquitetura, integração contínua, planejamento, projeto e reprojeto a qualquer hora"*.
 
 ### Valores
 Os valores são a forma de funcionamento fundamental da metodologia, sendo eles:
