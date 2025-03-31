@@ -18,8 +18,9 @@ Em linhas gerais, no XP a codificação é a principal tarefa e baseia-se em *"r
 
 ### Valores
 Os valores são a forma de funcionamento fundamental da metodologia, sendo eles:
-1. Comunicação: Baseia-se na promoção da comunicação constante entre os membros da equipe, formal ou informalmente. 
-2. Coragem: Aumentar a confiança do programador com testes, integração contínua e, principalmente, a programação em pares[^1], para permitir ter coragem para mudar o código.
+
+1. Comunicação:** Baseia-se na promoção da comunicação constante entre os membros da equipe, formal ou informalmente. 
+2. Coragem:** Aumentar a confiança do programador com testes, integração contínua e, principalmente, a programação em pares[^1], para permitir ter coragem para mudar o código.
 3. Feedbacks: Práticas que garantem o feedback sobre a qualidade do código (com a realização de testes unitários, de integração ou mesmo funcionais) e o estado de desenvolvimento, permitindo maior agilidade na correção de erros e reavaliação de conceitos que já haviam sido determinados.
 4. Respeito: Saber ouvir, ter empatia e respeitar uns aos outros.
 5. Simplicidade: Menos complexidade.
@@ -28,6 +29,7 @@ Os valores são a forma de funcionamento fundamental da metodologia, sendo eles:
 
 ### Princípios
 Os princípios guiam o desenvolvimento usando a metodologia, sendo eles:
+
 1. **Feedback rápido**: Obtenção contínua de retorno sobre decisões que foram tomadas.
 2. **Presumir simplicidade**: Tratar cada problema como se pudesse ser resolvido de forma simples, mesmo que haja complexidade.
 3. **Mudanças incrementais**: Realizar pequenas mudanças visando uma construção aos poucos do código.
@@ -36,6 +38,7 @@ Os princípios guiam o desenvolvimento usando a metodologia, sendo eles:
 
 ### Práticas
 São utiliazadas para o desenvolvimento do sistema, sendo elas:
+
 1. **Equipe Inteira**: Toda a equipe trabalha em conjunto como um *time de futebol*.
 2. **Jogos de Planejamento (Plan Poker)**: Definição de prioridade, tempo e custo do projeto.
 3. **Posse Coletiva**: Todo mundo é "dono" do código.
