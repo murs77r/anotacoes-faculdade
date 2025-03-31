@@ -29,6 +29,6 @@ A **Engenharia de Software** é como a engenharia civil, mas para criar programa
 
 **Evolução:** Antigamente, o desafio era fazer *hardware* barato e rápido. Hoje, o grande desafio é criar *software* de alta qualidade, com custo controlado e que atenda às necessidades complexas dos usuários.
 
-## Adicional
+## Observação Adicional
 
-*   **CASE (Computer-Aided Software Engineering):** Ferramentas de software que ajudam os desenvolvedores em diversas tarefas (desenhar diagramas, gerar código, testar, gerenciar requisitos). Elas apoiam a aplicação das metodologias.
+**CASE (Computer-Aided Software Engineering)** são ferramentas de software que ajudam os desenvolvedores em diversas tarefas (desenhar diagramas, gerar código, testar, gerenciar requisitos). Elas apoiam a aplicação das metodologias.
