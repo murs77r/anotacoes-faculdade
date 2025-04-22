@@ -19,11 +19,11 @@ Em linhas gerais, no XP a codificação é a principal tarefa e baseia-se em *"r
 ### Valores
 Os valores são a forma de funcionamento fundamental da metodologia, sendo eles:
 
-1. Comunicação:** Baseia-se na promoção da comunicação constante entre os membros da equipe, formal ou informalmente. 
-2. Coragem:** Aumentar a confiança do programador com testes, integração contínua e, principalmente, a programação em pares[^1], para permitir ter coragem para mudar o código.
-3. Feedbacks: Práticas que garantem o feedback sobre a qualidade do código (com a realização de testes unitários, de integração ou mesmo funcionais) e o estado de desenvolvimento, permitindo maior agilidade na correção de erros e reavaliação de conceitos que já haviam sido determinados.
-4. Respeito: Saber ouvir, ter empatia e respeitar uns aos outros.
-5. Simplicidade: Menos complexidade.
+1. **Comunicação:** Baseia-se na promoção da comunicação constante entre os membros da equipe, formal ou informalmente. 
+2. **Coragem:** Aumentar a confiança do programador com testes, integração contínua e, principalmente, a programação em pares[^1], para permitir ter coragem para mudar o código.
+3. **Feedbacks**: Práticas que garantem o feedback sobre a qualidade do código (com a realização de testes unitários, de integração ou mesmo funcionais) e o estado de desenvolvimento, permitindo maior agilidade na correção de erros e reavaliação de conceitos que já haviam sido determinados.
+4. **Respeito**: Saber ouvir, ter empatia e respeitar uns aos outros.
+5. **Simplicidade**: Menos complexidade.
 
 [^1]: **PROGRAMAÇÃO EM PARES**: Enquanto um programador faz o código, o outro revisa continuamente. É uma das principais práticas do XP.
 
